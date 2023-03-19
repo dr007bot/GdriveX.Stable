@@ -12,3 +12,18 @@
 **DATABASE ကို https://www.mongodb.com တွင်လုပ်ပါ။ 
 
 [For more info Click Here](https://t.me/drivetalk)
+
+
+## Bot commands to be set in [@BotFather](https://t.me/BotFather)
+
+~~~~~~~~~~~~
+
+start - useless command
+help - How to use me
+auth - Authorizing GDrive Account
+setfolder - Set Custom Upload Folder
+copy - Copy GDrive Files
+revoke - Revoke GDrive Account
+del - Delete GDrive Files
+
+~~~~~~~~~~~~
