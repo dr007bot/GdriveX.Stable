@@ -13,6 +13,11 @@
 
 [For more info Click Here](https://t.me/drivetalk)
 
+✅ Video Tutorial ကြည့်လိုလျှင် 
+
+- [Render Deploy Video](https://t.me/drivetalkchannel/172)
+
+- [Mongo Database ထုတ်ယူပုံ Video](https://t.me/drivetalkchannel/173)
 
 ## Bot commands to be set in [@BotFather](https://t.me/BotFather)
 
