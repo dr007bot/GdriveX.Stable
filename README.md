@@ -32,3 +32,12 @@ revoke - Revoke GDrive Account
 del - Delete GDrive Files
 
 ~~~~~~~~~~~~
+
+## *Supported Direct Link*
+Facebook Video
+Google Drive
+Youtube
+Solidfiles
+Anonfiles
+Mediafire
+Zippyshare
